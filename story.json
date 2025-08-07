@@ -4,44 +4,44 @@
       "user": {
         "id": 101,
         "username": "john_doe",
-        "profile_pic": "src/assets/premium_photo-1689977968861-9c91dbb16049.jpeg"
+        "profile_pic": "https://i.pinimg.com/736x/87/5b/4f/875b4fb82c44a038466807b0dcf884cc.jpg"
       },
-      "image": "/src/assets/s1.jpg"
+      "image": "https://i.pinimg.com/736x/f0/ee/00/f0ee00ed041d3434ed4d1092c07de231.jpg"
     },
     {
       "id": 2,
       "user": {
         "id": 102,
         "username": "sarah_lee",
-        "profile_pic": "src/assets/profile pic 2.jpeg"
+        "profile_pic": "https://i.pinimg.com/736x/a9/c4/47/a9c447c95e1d3a04f56998cce2b988c9.jpg"
       },
-      "image": "src/assets/clutha-nature-pictures-67389110.jpg"
+      "image": "https://i.pinimg.com/736x/dc/5c/13/dc5c13e7e15c0b872a45ceb59860fdd2.jpg"
     },
     {
       "id": 3,
       "user": {
         "id": 103,
         "username": "alex_smith",
-        "profile_pic": "src/assets/profile_alex.jpeg"
+        "profile_pic": "https://i.pinimg.com/1200x/46/a8/03/46a803348f94c9d48dbaa9698d37e1fb.jpg"
       },
-      "image": "src/assets/story-alex.jpg"
+      "image": "https://i.pinimg.com/736x/6c/20/d1/6c20d10635e4a20dcfeb13ddf8af1e1c.jpg"
     },
     {
       "id": 4,
       "user": {
         "id": 104,
         "username": "emma_watson",
-        "profile_pic": "src/assets/emma_profile.jpeg"
+        "profile_pic": "https://i.pinimg.com/736x/9c/65/96/9c65966a6bbbf3b905be99fed2d67521.jpg"
       },
-      "image": "src/assets/story-emma.jpg"
+      "image": "https://i.pinimg.com/736x/57/41/51/574151abe246795c1f517bebbba08cac.jpg"
     },
     {
       "id": 5,
       "user": {
         "id": 105,
         "username": "li_wei",
-        "profile_pic": "src/assets/liwei_profile.jpeg"
+        "profile_pic": "https://i.pinimg.com/736x/e0/c3/f2/e0c3f20eebc8a07a43b61ffcef573d1c.jpg"
       },
-      "image": "src/assets/sunset-story.jpg"
+      "image": "https://i.pinimg.com/736x/05/a6/3b/05a63babe6f149dffc656f8af502d4c2.jpg"
     }
 ]
