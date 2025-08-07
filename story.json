@@ -1,0 +1,47 @@
+ [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "src/assets/premium_photo-1689977968861-9c91dbb16049.jpeg"
+      },
+      "image": "/src/assets/s1.jpg"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "sarah_lee",
+        "profile_pic": "src/assets/profile pic 2.jpeg"
+      },
+      "image": "src/assets/clutha-nature-pictures-67389110.jpg"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "alex_smith",
+        "profile_pic": "src/assets/profile_alex.jpeg"
+      },
+      "image": "src/assets/story-alex.jpg"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "emma_watson",
+        "profile_pic": "src/assets/emma_profile.jpeg"
+      },
+      "image": "src/assets/story-emma.jpg"
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "li_wei",
+        "profile_pic": "src/assets/liwei_profile.jpeg"
+      },
+      "image": "src/assets/sunset-story.jpg"
+    }
+]
